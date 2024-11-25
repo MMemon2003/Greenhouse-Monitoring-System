@@ -23,15 +23,16 @@ rgb_lcd.h for Grove RGB Backlight LCDs.
 Features:
 Displays "Intermission" briefly before showing sensor data.
 Sensor data displayed in a menu format using a switch statement.
-- Sensor Measurements - 
-Soil Temperature:
-DS18 Temperature Sensor:
+- Sensor Measurements - :
+DS18 Temperature or soil Sensor:
 Utilizes OneWire and DallasTemperature libraries.
 Measures soil temperature in real-time.
+
 Humidity & Ambient Temperature:
 DHT20 Sensor:
 Utilizes DHT20 library.
 Functions: DHT.read(), DHT.getTemperature(), DHT.getHumidity().
+
 Light Level:
 LDR Illuminator:
 Measures ambient luminance levels.
@@ -60,8 +61,8 @@ Function: Measures humidity and ambient temperature.
 
 - Light Measurement (LDR Light Sensor): - 
 Function: Monitors ambient luminance levels for light detection.
-Fan Control
-Manual Control:
+
+- Fan Control - 
 Adjust fan speed using a potentiometer.
 Automatic Control:
 Trigger: DS18 Temperature Sensor activates fan when the temperature exceeds a set threshold (e.g., 25°C).
