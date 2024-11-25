@@ -2,6 +2,10 @@
 This project involves designing and construction of a greenhouse environtmental controller, that allows gardener(user) to see the temperature,humidity,and the light level, it also has a fan that turns on to allow cooling to the area.
 This device is sutiable for the agriculture and inductrail environment, so that garden crops for the user are kept in a sutiablle condition. 
 
+# Block Diagram:
+![{4CF93CE0-E77F-4460-B240-1ECA1CEE90F0}](https://github.com/user-attachments/assets/9aaae45b-975d-47e4-beeb-c365077395b0)
+
+
 # Sensors 
 - Temperature (DS1820 Sensor) - used for the temperature
 - Humidity (DHT22 Sensor) - used for the Humidity
@@ -28,12 +32,12 @@ DS18 Temperature or soil Sensor:
 Utilizes OneWire and DallasTemperature libraries.
 Measures soil temperature in real-time.
 
-Humidity & Ambient Temperature:
+- Humidity & Ambient Temperature: -
 DHT20 Sensor:
 Utilizes DHT20 library.
 Functions: DHT.read(), DHT.getTemperature(), DHT.getHumidity().
 
-Light Level:
+- Light Level: - 
 LDR Illuminator:
 Measures ambient luminance levels.
 Fan Control
