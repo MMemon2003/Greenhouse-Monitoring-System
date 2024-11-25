@@ -3,11 +3,11 @@ This project involves designing and construction of a greenhouse environtmental 
 This device is sutiable for the agriculture and inductrail environment, so that garden crops for the user are kept in a sutiablle condition. 
 
 # Sensors 
-Temperature (DS1820 Sensor) used for the temperature
-Humidity (DHT22 Sensor) used for the Humidity
-Light Intensity (LDR Sensor) used for the light level
-HD44780 LCD screen used for real-time data 
-Parameters - potentiometer to allow manual adjustment
+- Temperature (DS1820 Sensor) - used for the temperature
+- Humidity (DHT22 Sensor) - used for the Humidity
+- Light Intensity (LDR Sensor) - used for the light level
+- HD44780 LCD screen -  used for real-time data 
+- Parameters - potentiometer to allow manual adjustment
 
 # Software
 - Algorithm Design - 
