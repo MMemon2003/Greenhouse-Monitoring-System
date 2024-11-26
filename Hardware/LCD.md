@@ -4,4 +4,5 @@ Soil temperature is measured using a thermistor sensor, while the humidity senso
 The LCD provides clear updates, indicating whether the temperature is too high or low, ensuring efficient monitoring and control.
 
 # Fan control
-![image](https://github.com/user-attachments/assets/30f074d7-cbaa-4440-b6e7-f138339fcf2f)
+![{F62FE98A-D46D-48F3-8E28-BB91F3ACF9E1}](https://github.com/user-attachments/assets/e8216e5e-15e4-4cda-b0a1-6eea81649611)
+
