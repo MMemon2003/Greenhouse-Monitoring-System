@@ -8,10 +8,10 @@ This screen dynamically displayed real-time measurements of key environmental fa
 ![{A62588AF-D891-4E91-873C-A6FA1E7B75E7}](https://github.com/user-attachments/assets/18791327-4c3e-4ebc-b387-1cd3bbba3dc5)
 
 
-#PCB Design
+#  PCB Design
 ![{830D4812-769C-4E4E-9726-6CBD684057DD}](https://github.com/user-attachments/assets/c25ccc9b-2d1a-4120-9aec-b93ad3d1e086)
 
-#Breadboard Design
+# Breadboard Design
 ![{C364ABFA-C937-4CF8-8F07-9D9AB7BF1F43}](https://github.com/user-attachments/assets/c65bdf60-7c64-4154-90f4-6f0a1d39d4e7)
 
 
