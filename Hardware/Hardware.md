@@ -11,7 +11,12 @@ This screen dynamically displayed real-time measurements of key environmental fa
 #  PCB Design
 ![{830D4812-769C-4E4E-9726-6CBD684057DD}](https://github.com/user-attachments/assets/c25ccc9b-2d1a-4120-9aec-b93ad3d1e086)
 
-# Breadboard Design
-![{C364ABFA-C937-4CF8-8F07-9D9AB7BF1F43}](https://github.com/user-attachments/assets/c65bdf60-7c64-4154-90f4-6f0a1d39d4e7)
+# List of the Inputs and Outputs used in the project
+![{B03AF0F5-547C-4F11-A93C-0E45CB9B86BA}](https://github.com/user-attachments/assets/f3d15a5a-2b31-4025-82ea-4dd0d80bb679)
+
+# Specifications of the compoents used in the project
+![{635770AE-5D9C-4C84-8EC5-2C6B3C507701}](https://github.com/user-attachments/assets/f0a67225-3081-47ac-9092-43a8b2cf7e7f)
+
+
 
 
