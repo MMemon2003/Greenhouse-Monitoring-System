@@ -1,11 +1,17 @@
 # Ardunio code for the Greenhouse Monitoring System
 
 #include <Arduino.h>
+
 //#include <Wire.h>
+
 #include <OneWire.h>
+
 #include <DallasTemperature.h>
+
 #include "rgb_lcd.h"
+
 #include "DHT20.h"  // Include the DHT20 library
+
 
 
 // Pin Definitions
